@@ -1,0 +1,13 @@
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio5\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.csprojAssemblyReference.cache
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio5\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.AssemblyInfoInputs.cache
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio5\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.AssemblyInfo.cs
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio5\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio5\exercicio5\bin\Debug\netcoreapp3.1\exercicio5.exe
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio5\exercicio5\bin\Debug\netcoreapp3.1\exercicio5.deps.json
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio5\exercicio5\bin\Debug\netcoreapp3.1\exercicio5.runtimeconfig.json
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio5\exercicio5\bin\Debug\netcoreapp3.1\exercicio5.runtimeconfig.dev.json
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio5\exercicio5\bin\Debug\netcoreapp3.1\exercicio5.dll
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio5\exercicio5\bin\Debug\netcoreapp3.1\exercicio5.pdb
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio5\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.dll
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio5\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.pdb
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio5\exercicio5\obj\Debug\netcoreapp3.1\exercicio5.genruntimeconfig.cache

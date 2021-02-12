@@ -1,0 +1,12 @@
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio6\exercicio6\bin\Debug\netcoreapp3.1\exercicio6.exe
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio6\exercicio6\bin\Debug\netcoreapp3.1\exercicio6.deps.json
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio6\exercicio6\bin\Debug\netcoreapp3.1\exercicio6.runtimeconfig.json
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio6\exercicio6\bin\Debug\netcoreapp3.1\exercicio6.runtimeconfig.dev.json
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio6\exercicio6\bin\Debug\netcoreapp3.1\exercicio6.dll
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio6\exercicio6\bin\Debug\netcoreapp3.1\exercicio6.pdb
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio6\exercicio6\obj\Debug\netcoreapp3.1\exercicio6.AssemblyInfoInputs.cache
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio6\exercicio6\obj\Debug\netcoreapp3.1\exercicio6.AssemblyInfo.cs
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio6\exercicio6\obj\Debug\netcoreapp3.1\exercicio6.csproj.CoreCompileInputs.cache
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio6\exercicio6\obj\Debug\netcoreapp3.1\exercicio6.dll
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio6\exercicio6\obj\Debug\netcoreapp3.1\exercicio6.pdb
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\trabalhos\Ecercicios Propostos 2\exercicio6\exercicio6\obj\Debug\netcoreapp3.1\exercicio6.genruntimeconfig.cache
